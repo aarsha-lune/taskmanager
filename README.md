@@ -47,19 +47,19 @@ With full responsiveness, role-based access, and seamless API integrations, Task
 ---
 
 ## **Features**
-- **User Authentication & Authorization: Signup, login, and role-based access control (Admin/Developer)
+- ** User Authentication & Authorization: Signup, login, and role-based access control (Admin/Developer)
 
-- **Task Management: Create, assign, edit, and track tasks with statuses (To Do, In Progress, Done)
+- ** Task Management: Create, assign, edit, and track tasks with statuses (To Do, In Progress, Done)
 
-- **Project Dashboard: Filter and search tasks by priority, assignee, or project
+- ** Project Dashboard: Filter and search tasks by priority, assignee, or project
 
-- **Admin Panel: Manage user roles, task templates, and view reports
+- ** Admin Panel: Manage user roles, task templates, and view reports
 
-- **Attachment Support: Upload and manage files/images using Cloudinary
+- ** Attachment Support: Upload and manage files/images using Cloudinary
 
-- **Responsive Design: Mobile and desktop-friendly UI
-
-- **Developer-Friendly: Designed with teams and agile workflow in mind
+- ** Responsive Design: Mobile and desktop-friendly UI
+ 
+- ** Developer-Friendly: Designed with teams and agile workflow in mind
 ---
 
 ## **Installation and Setup Instructions**
