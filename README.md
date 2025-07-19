@@ -6,10 +6,10 @@
 
 ### GUI of the Project
 <img width="538" alt="image" src="https://github.com/user-attachments/assets/091acb05-d8ff-420b-b551-f82ff7b16d4e" />
+<img width="1613" height="900" alt="image" src="https://github.com/user-attachments/assets/8f5a1a08-d623-4d26-a637-ac5131321b21" />
 
-<img width="1425" alt="image" src="https://github.com/user-attachments/assets/e887f0a0-e81e-4ac3-974c-366273b6f994" />
+<img width="1613" height="891" alt="image" src="https://github.com/user-attachments/assets/967275e3-0519-4bc3-9962-de03d51417be" />
 
-<img width="1171" alt="image" src="https://github.com/user-attachments/assets/15afcb2f-a3e3-4847-924f-898e71bdab89" />
 
 
 
